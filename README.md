@@ -1,6 +1,9 @@
 NTNU Gjøvik BSc student, data engineering
 
 Look at this awesome monkey
+
+
+
 ![monkey](monkey.gif)
 
 ## Programming languages usage
