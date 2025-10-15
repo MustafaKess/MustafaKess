@@ -1,7 +1,7 @@
 NTNU Gjøvik BSc student, data engineering
 
 Look at this awesome monkey
-![monkey](https://media1.tenor.com/m/0ztgem9qbHwAAAAd/monke-gaming.gif)
+![monkey](https://tenor.com/bA8Qe.gif)
 
 ## Programming languages usage
 
