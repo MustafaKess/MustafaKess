@@ -4,10 +4,9 @@ Look at this awesome monkey
 
 
 
-![monkey](monkey.gif)
+<img src="monkey.gif" alt="monkey" width="50%">
 
-<!---  ## Programming languages usage
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKess&layout=compact&hide=html)
- ---> 
+
 
