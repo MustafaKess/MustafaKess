@@ -1,4 +1,4 @@
-NTNU Gjøvik BSc student, data engineering
+NTNU CS student, data engineering
 
 Look at this awesome monkey
 
